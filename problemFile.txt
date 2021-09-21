@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 aaaaaaaa
 bbbbbbbb
 cccccccc
+=======
+aaaa11111aaaa1111
+bbbb22222bbbb2222
+cccc33333cccc3333
+>>>>>>> newBranch
